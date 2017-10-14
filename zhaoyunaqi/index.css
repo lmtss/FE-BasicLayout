@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(204,233,254);
+}
+body>div{
+    width: 80%;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10px;
+}
+div>div{
+    text-align: center;
+    font-size: 1vw;
+}
+.Banner{
+    height: 200px;
+    background-color: rgb(65,197,191);
+}
+.Footer{
+    height: 175px;
+    background-color: rgb(65,197,191);
+    margin-bottom: 0px;
+}
+.para{
+    height: 400px;
+    background-color: white;
+}
+.Navbar{
+    background-color: white;
+    height: 50px;
+    position: relative;
+    float: left;
+    top: 150px;
+    display: table;
+    table-layout: fixed;
+}
+.item{
+    width: 100%;
+    display: table-cell;
+}
+.wtf{
+    height: 44px;
+    margin: 3px;
+    background-color: red;
+}
+.mdzz{
+    width: 200px;
+    height: 100%;
+    background-color: #2aabd2;
+}
+.center{
+    background-color: red;
+    height: 100%;
+    margin: 0 200px;
+}
+.float_right{
+    float: right;
+    width: 22vw;
+    height: 100%;
+    background-color: #2aabd2;
+}
+.left{
+    background-color: red;
+    height: 100%;
+
+}
